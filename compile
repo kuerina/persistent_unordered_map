@@ -1,0 +1,2 @@
+g++ main_writer.cpp -lpthread -o writer
+g++ main_reader.cpp -lpthread -o reader
